@@ -66,7 +66,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ Ullash ッ ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ullash.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/profile.php?id=100000654976375\nতার সাতে যোগা যোগ করবেন WhatsApp :- +0175570***", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
+   if ((event.body.toLowerCase() == "তোর বস কে") || (event.body.toLowerCase() == "admin ke ")) {
      return api.sendMessage("My Creator:𝕻𝖗𝖎𝖓𝖈𝖊 ❍ꪜi ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস উল্লাস আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
@@ -91,23 +91,23 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@Efti'Yana Su'Mu") || (event.body.toLowerCase() == "সুমু")) {
+   if ((event.body.toLowerCase() == "sumu") || (event.body.toLowerCase() == "সুমু")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস অভী এর বউ এর আইড়ি😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Suraiya") || (event.body.toLowerCase() == "arohi")) {
+  if ((event.body.toLowerCase() == "সুরাইয়া") || (event.body.toLowerCase() == "arohi")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস অভী এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   
-  if ((event.body.toLowerCase() == "mim") || (event.body.toLowerCase() == "Mim")) {
+  if ((event.body.toLowerCase() == "লিমা") || (event.body.toLowerCase() == "Mim")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস অভী এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@Sinthiya Tarin Ruma") || (event.body.toLowerCase() == "সপ্না")) {
+  if ((event.body.toLowerCase() == "নাদিয়া") || (event.body.toLowerCase() == "সপ্না")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস অভী এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@MD Almaruf ") || (event.body.toLowerCase() == "মারুফ")) {
+  if ((event.body.toLowerCase() == "Maruf ") || (event.body.toLowerCase() == "মারুফ")) {
      return api.sendMessage("🥰-মারুফ-🌺 আমার বস অভী'র বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
